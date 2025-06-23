@@ -1,7 +1,3 @@
-Absolutely! Here's an **extended and well-structured GitHub README description** for your `Pizza Store Analysis` project — great for showcasing on your profile or portfolio:
-
----
-
 ## 🍕 Pizza Store Sales Analysis — SQL Case Study
 
 This project is a **SQL-based data analysis** of a fictional pizza store. It explores various business questions related to sales, revenue, and customer ordering patterns. The dataset mimics a real-world food delivery business, containing tables like `orders`, `order_details`, `pizzas`, and `pizza_types`.
@@ -67,6 +63,3 @@ This project is ideal for:
 
 👉 [View Full SQL Script on GitHub](https://github.com/bhartisinghal12/Pizza_store_Analysis/blob/main/pizza_store_analysis.sql)
 
----
-
-Let me know if you want a **Power BI dashboard layout**, visualizations for this project, or even how to turn this into a **blog post or LinkedIn case study**.
